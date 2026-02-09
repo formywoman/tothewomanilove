@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me 7ayete?",                                    // First interaction
+            text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't just like you, I love you! ❤️"           // Secret hover message
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAYAYAYY I LOVEE YOUUU MWAHHHH, IMMA MARRY U<33!! 🎉💝💖💝💓",
-        message: "Now come get your gift, LONGG BIGG HUGGIES and KISSESS!",
+        title: "YAYAYAYY I LOVEE YOUUU MWAHHHH<33!! 🎉💝💖💝💓",
+        message: "LEMME COME OVER AND GIVE U GIFTS CHOCOLATES, LONG BIGG HUGGIES and KISSESS!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
